@@ -14,7 +14,6 @@ print("Fámilia: ", sobrenome)
 esporte = input("Digite seu esporte favorito: ")
 print("O esporte é: ", esporte)
 
-
 #------------ Exercícios de Aplicação ----------------
 #Part.1 ---------------------------------------------- 
 base = float(input("Digite o valor da base: "))
