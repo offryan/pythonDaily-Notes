@@ -60,7 +60,6 @@ else:
 #Part.5 -------------------------------------------------------
 print('Conversão de dólar para reais')
 dolar = float(input('Quantidade em dólares: US$: '))
-
 cotacao = float(input ('Valor da cotação do dólar: R$: '))
 conversao = dolar*cotacao
 
