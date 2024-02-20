@@ -1,0 +1,13 @@
+num = int(input('Digite um número inteiro: '))
+
+print(f'{num} * 0 = {0*num}')
+print(f'{num} * 1 = {1*num}')
+print(f'{num} * 2 = {2*num}')
+print(f'{num} * 3 = {3*num}')
+print(f'{num} * 4 = {4*num}')
+print(f'{num} * 5 = {5*num}')
+print(f'{num} * 6 = {6*num}')
+print(f'{num} * 7 = {7*num}')
+print(f'{num} * 8 = {8*num}')
+print(f'{num} * 9 = {9*num}')
+print(f'{num} * 10 = {10*num}')
